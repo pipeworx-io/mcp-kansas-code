@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kansas-code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kansas Statutes Annotated — state statutes by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-6e79a7f9caa19c18ed56d0416c6179cf2a422d19cf448a1e2fbee7714928d027",
+    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
   }
 }
