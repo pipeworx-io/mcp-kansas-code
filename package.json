@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kansas-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Kansas Statutes Annotated — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "kansas-code",
     "gatewaySlug": "kansas-code",
-    "sourceHash": "v1-799308bf50e7242c89077182bc3c37c197e45262e48f46125ad42f5209c5eeda",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-cf249df57b8e66e31ed132a2e0033509dc353c0575d0e9ffefceafb9a9d1ce26",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
